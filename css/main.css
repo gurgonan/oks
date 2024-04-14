@@ -10,7 +10,7 @@ body{background: linear-gradient(to right,  rgba(86,11,11,1) 0%,rgba(191,15,15,1
 border-color: white;
 color:white;
 margin: 0 auto; /*центрируем и убираем отступы*/
-padding:0 300px;/*делаем страничку резиновой */
+padding:0 15%;/*делаем страничку резиновой */
 
 }
 
